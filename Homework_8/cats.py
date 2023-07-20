@@ -12,4 +12,4 @@ def cats(number_cats:list, number_round) -> list:
             result.append(number)
     return result
 
-print(cats(1000,1000))
+print(cats(100,100))
