@@ -1,4 +1,4 @@
-# ![Bot Logo](logo.png "Optional Title or Alt Text") # Telegram Bot - "GetGif"
+# ![](logo.png=20x20) Telegram Bot - "GetGif"
 
 This is a simple Telegram bot that allows users to find GIFs related to specific words using the Giphy API. When a user sends a word to the bot, it will respond with a relevant GIF fetched from the https://giphy.com.
 
