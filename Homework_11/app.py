@@ -1,7 +1,4 @@
-from urllib import parse, request
 import json
-import time
-import logging
 from aiogram import Bot, Dispatcher, executor, types
 from data import config
 
