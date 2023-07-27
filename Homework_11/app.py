@@ -1,3 +1,4 @@
+from urllib import parse, request
 import json
 from aiogram import Bot, Dispatcher, executor, types
 from data import config
