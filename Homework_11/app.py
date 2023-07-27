@@ -30,14 +30,17 @@ async def get_result(message: types.Message):
             "limit": "1",
         }
     )
-    with request.urlopen("".join((URL, "?", params))) as response:
-        data = json.loads(response.read())
-        json_data = json.dumps(data, sort_keys=True, indent=4)
-        json_dict = json.loads(json_data)
-        for data in json_dict:
-            data = json_dict["data"]
-        result = data[0]["images"]["original"]["url"]
-    await message.reply_animation(result)
+    try:
+        with request.urlopen("".join((URL, "?", params))) as response:
+            data = json.loads(response.read())
+            json_data = json.dumps(data, sort_keys=True, indent=4)
+            json_dict = json.loads(json_data)
+            for data in json_dict:
+                data = json_dict["data"]
+            result = data[0]["images"]["original"]["url"]
+        await message.reply_animation(result)
+    except IndexError:
+        await message.reply("Something went wrong")
 
 
 if __name__ == "__main__":

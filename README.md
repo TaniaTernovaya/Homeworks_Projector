@@ -8,7 +8,6 @@ This repository contains my completed homework assignments, each organized into 
 2. <span style="color: #3498db">Homework Assignments</span>
 3. <span style="color: #f39c12">How to Use</span>
 4. <span style="color: #9b59b6">Contributing</span>
-5. <span style="color: #e74c3c">License</span>
 
 ## <span style="color:#2ecc71">Introduction</span>
 
