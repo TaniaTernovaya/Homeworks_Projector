@@ -1,4 +1,3 @@
-<!-- Add CSS style for color customization -->
 <style>
 /* Header 1 style */
 h1 {
@@ -15,14 +14,18 @@ h3 {
   color: #f39c12; /* Orange color */
 }
 
-/* Code block style */
+<style>
+/* Code block style with black background */
 pre {
-  background-color: #f0f0f0; /* Light gray background */
+  background-color: #000; /* Black background */
+  color: #fff; /* White text color */
   padding: 10px;
   border-radius: 5px;
   font-family: "Courier New", monospace;
 }
 </style>
+
+# Homework Projector Repository
 
 This repository contains my completed homework assignments, each organized into separate folders based on the assignment number. Each folder (e.g., "Homework_8") contains Python files that correspond to the solved tasks on various topics.
 
@@ -44,17 +47,27 @@ As I progress through my academic journey, I will continuously add new completed
 
 The repository currently includes the following homework assignments:
 
-1. [Homework 8](./Homework_8) - Complexity.Algorithms
-2. [Homework 9](./Homework_9) - Modules
-3. [Homework 10](./Homework_10) - Context Manager. Files
-3. [Homework 11](./Homework_11) - Network.Requests
-
+1. [Homework 8](./Homework_8) - Topics covered in this assignment include data structures and algorithms.
+2. [Homework 9](./Homework_9) - This assignment focuses on object-oriented programming concepts.
+3. [Homework 10](./Homework_10) - Topics covered in this assignment include file I/O and exception handling.
 
 As I complete more homework assignments, this list will expand to cover a wide range of programming concepts and problem-solving techniques.
 
 ## <span style="color:#f39c12">How to Use</span>
 
 To explore the code and solutions for each homework assignment, navigate to the corresponding folder of interest. Inside each folder, you will find Python files with filenames that reflect the specific tasks addressed in the assignment. Feel free to examine the code, comments, and any accompanying documentation to understand my approach to each problem.
+
+For example, to view the code for Homework 8, run the following command in your terminal:
+
+```python
+cd Homework_8
+ls
+```
+This will display the Python files containing my solutions for that specific assignment.
+
+<span style="color:#9b59b6">Contributing</span>
+
+This repository is currently a personal collection of my completed homework assignments, and I am not actively seeking external contributions at this time. However, I welcome feedback, suggestions, and constructive criticism. If you notice any issues with the code or have recommendations for improvements, please feel free to open an issue, and I'll be happy to address it.
 
 # <span style="color:#2ecc71"> Homework 8 - Cats with Hats
 
