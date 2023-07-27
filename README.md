@@ -1,41 +1,14 @@
-<style>
-/* Header 1 style */
-h1 {
-  color: #2ecc71; /* Green color */
-}
-
-/* Header 2 style */
-h2 {
-  color: #3498db; /* Blue color */
-}
-
-/* Header 3 style */
-h3 {
-  color: #f39c12; /* Orange color */
-}
-
-<style>
-/* Code block style with black background */
-pre {
-  background-color: #000; /* Black background */
-  color: #fff; /* White text color */
-  padding: 10px;
-  border-radius: 5px;
-  font-family: "Courier New", monospace;
-}
-</style>
-
-# Homework Projector Repository
+# Homework Projector Repository :wave:
 
 This repository contains my completed homework assignments, each organized into separate folders based on the assignment number. Each folder (e.g., "Homework_8") contains Python files that correspond to the solved tasks on various topics.
 
 ## Table of Contents
 
-1. [Introduction](#introduction)
-2. [Homework Assignments](#homework-assignments)
-3. [How to Use](#how-to-use)
-4. [Contributing](#contributing)
-5. [License](#license)
+1. <span style="color: #2ecc71">Introduction</span>
+2. <span style="color: #3498db">Homework Assignments</span>
+3. <span style="color: #f39c12">How to Use</span>
+4. <span style="color: #9b59b6">Contributing</span>
+5. <span style="color: #e74c3c">License</span>
 
 ## <span style="color:#2ecc71">Introduction</span>
 
@@ -47,9 +20,11 @@ As I progress through my academic journey, I will continuously add new completed
 
 The repository currently includes the following homework assignments:
 
-1. [Homework 8](./Homework_8) - Topics covered in this assignment include data structures and algorithms.
-2. [Homework 9](./Homework_9) - This assignment focuses on object-oriented programming concepts.
-3. [Homework 10](./Homework_10) - Topics covered in this assignment include file I/O and exception handling.
+1. [Homework 8](./Homework_8) - Complexity. Algorithms
+2. [Homework 9](./Homework_9) - Modules.
+3. [Homework 10](./Homework_10) - Context Manager. Files
+4. [Homework 11](./Homework_11) - Network. Requests. 
+
 
 As I complete more homework assignments, this list will expand to cover a wide range of programming concepts and problem-solving techniques.
 
@@ -69,7 +44,7 @@ This will display the Python files containing my solutions for that specific ass
 
 This repository is currently a personal collection of my completed homework assignments, and I am not actively seeking external contributions at this time. However, I welcome feedback, suggestions, and constructive criticism. If you notice any issues with the code or have recommendations for improvements, please feel free to open an issue, and I'll be happy to address it.
 
-# <span style="color:#2ecc71"> Homework 8 - Cats with Hats
+# <span style="color:#2ecc71"> Homework 8 - Cats with Hats :cat:
 
 ## Task Description
 
