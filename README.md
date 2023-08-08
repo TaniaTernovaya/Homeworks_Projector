@@ -22,7 +22,9 @@ The repository currently includes the following homework assignments:
 1. [Homework 8](./Homework_8) - Complexity. Algorithms
 2. [Homework 9](./Homework_9) - Modules.
 3. [Homework 10](./Homework_10) - Context Manager. Files
-4. [Homework 11](./Homework_11) - Network. Requests. 
+4. [Homework 11](./Homework_11) - Network. Requests.
+5. [Homework 12](./Homework_12) - Decorator.
+6. [Homework 13](./Homework_13) - OOP. Class.
 
 
 As I complete more homework assignments, this list will expand to cover a wide range of programming concepts and problem-solving techniques.
